@@ -19,4 +19,3 @@ A Dynamic Web App using PHP & MySQL is divided into the following tasks:
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
